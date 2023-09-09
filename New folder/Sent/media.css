@@ -1,0 +1,16 @@
+div{
+    height: 300px;
+    width: 300px;
+    background-color: antiquewhite;
+}
+@media (width:600px){
+    div{
+        background-color: aqua;
+    }
+}
+@media(min-width:400px){
+    div{
+        background-color: brown;
+
+    }
+}

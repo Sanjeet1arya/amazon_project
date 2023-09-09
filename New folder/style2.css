@@ -1,0 +1,26 @@
+div{
+    height: 30px;
+    background-color: aqua;
+   /* width: 200px;
+    border-width: 3px;
+    border-style: dashed;
+    border-color: blue;*/
+    border: 2px dotted red;
+    border-radius: 15px;
+    text-align: center;
+    padding: 50px;
+    margin-bottom: 59px;
+}
+h1{
+    height: 30px;
+    background-color: blanchedalmond;
+    /*border-width: 2px;
+    border-style: solid;
+    border-color: blueviolet;*/
+    border: 2px solid rgb(42, 165, 116);
+   /* text-align: center;*/
+    /*border-radius: 15px;*/
+   /* padding-left: 25px;*/
+   padding: 50px;
+   margin-top: 50px;
+}

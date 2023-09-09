@@ -1,0 +1,61 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-image: url("image.jpg");
+    background-size: cover;
+    position: fixed;
+    right: 0px;
+    top: 10px;
+}
+
+/* div{
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+}
+#box1{
+    position: relative;
+    top:30px ;
+    left: 10px;
+}
+#box2{
+    position: absolute;
+    top: 20px;
+}
+#box3{
+    position: fixed;
+    right: 10px;
+    bottom: 0%;
+    width: 100%;
+}
+#box4{
+    position: sticky;
+    background-image: url("image.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+#box1{
+    background-image: url("image.jpg");
+    background-size: cover;
+}*\
+
+
+
+/*#box1{
+
+
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    font-size: 1em;
+}
+#box2 {
+   height: 50px;
+   width: 30px;
+   background-color: bisque;
+   font-size: 2em;
+   width: 5em;
+}
